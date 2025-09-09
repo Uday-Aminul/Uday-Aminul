@@ -1,12 +1,10 @@
-## Hi👋
-
+**Hi👋**
 My name is **Udoy Aminul**. I am an Asp.Net Core Backend Developer, focused on building scalable REST APIs, implementing authentication & authorization with OAuth2 and JWT, and working with relational and NoSQL databases.
 
 <h1></h1>
 
-## I am currently studying in
+**I am currently studying in**
 [**BAUST**](https://www.baust.edu.bd/), Bangladesh Army University of Science and Technology in the department of CSE(Computer Science and Engineering).
-
 I am currently learning Frontend Development with Html, Css, React and Typescript.
 <h1></h1>
 
