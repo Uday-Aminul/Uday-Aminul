@@ -1,12 +1,11 @@
 ## Hi👋
 
-My name is **Udoy Aminul**.
-<h1></h1>
-I am an Asp.Net Core Backend developer.
+My name is **Udoy Aminul**. I am an Asp.Net Core Backend Developer, focused on building scalable REST APIs, implementing authentication & authorization with OAuth2 and JWT, and working with relational and NoSQL databases.
+
 <h1></h1>
 
-<h3>I am currently studying in</h3>
-[**BAUST**](https://www.baust.edu.bd/), Bangladesh Army University of Science and Technology in the department of CSE.
+## I am currently studying in
+[**BAUST**](https://www.baust.edu.bd/), Bangladesh Army University of Science and Technology in the department of CSE(Computer Science and Engineering).
 
 I am currently learning Frontend Development with Html, Css, React and Typescript.
 <h1></h1>
@@ -29,7 +28,7 @@ I am currently learning Frontend Development with Html, Css, React and Typescrip
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 <!-- Tools -->
-<p><strong>Tools and Technologies:</strong><br/>
+<p><strong>Tools:</strong><br/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
