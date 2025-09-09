@@ -1,5 +1,5 @@
-**Hi👋**
-My name is **Udoy Aminul**. I am an Asp.Net Core Backend Developer, focused on building scalable REST APIs, implementing authentication & authorization with OAuth2 and JWT, and working with relational and NoSQL databases.
+**Hi👋**<br>
+My name is **Udoy Aminul**. I'm an ASP.NET Core Backend Developer, focused on building scalable REST APIs, implementing authentication & authorization using OAuth2 and JWT, and working with both relational and NoSQL databases.
 
 <h1></h1>
 
