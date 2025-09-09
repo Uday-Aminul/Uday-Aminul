@@ -30,7 +30,6 @@ I am currently learning Frontend Development with Html, Css, React and Typescrip
 </p>
 <!-- Tools -->
 <p><strong>Tools and Technologies:</strong></p>
-<p><strong>Tools:</strong><br/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
