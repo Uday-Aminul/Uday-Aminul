@@ -3,7 +3,7 @@ My name is **Udoy Aminul**. I'm an ASP.NET Core Backend Developer, focused on bu
 
 <h1></h1>
 
-**I am currently studying in**
+**I am currently studying in**<br>
 [**BAUST**](https://www.baust.edu.bd/), Bangladesh Army University of Science and Technology in the department of CSE(Computer Science and Engineering).
 I am currently learning Frontend Development with Html, Css, React and Typescript.
 <h1></h1>
